@@ -238,7 +238,7 @@ header .main ul li a.active {
 	.ad {
 		/* display:none; */
 	}
-	.ad .item img {
+/* 	.ad .item img {
 		max-width:100%;
 	}
 	.ad {
@@ -285,7 +285,7 @@ header .main ul li a.active {
         background-color: #229EAD;
         transform: scale(1);
     }
-
+ */
 /* 平台特点 */
 .feature {
 	width:90%;
